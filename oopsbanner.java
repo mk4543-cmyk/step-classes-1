@@ -1,6 +1,14 @@
-public class oopsbanner {
-    public static void main(String[] args) {
-        //UC1 done
-        System.out.println("OOPS");
-    }
+public class oopsbanner{
+    //uc2
+ public static void main(String args[]) {
+	System.out.println("   ***       ***    ******       *****");
+	System.out.println(" **   **   **   **  **    **   **");
+	System.out.println("**     ** **     ** **     ** **");
+	System.out.println("**     ** **     ** **    **   **");
+	System.out.println("**     ** **     ** ******       ***");
+	System.out.println("**     ** **     ** **              **");
+	System.out.println("**     ** **     ** **               **");
+	System.out.println(" **   **   **   **  **              **");
+	System.out.println("   ***       ***    **         *****");
+	}
 }
